@@ -1,0 +1,10 @@
+C:\Users\Vikingo\source\repos\BotonEscurridizo\BotonEscurridizo\bin\Debug\BotonEscurridizo.exe.config
+C:\Users\Vikingo\source\repos\BotonEscurridizo\BotonEscurridizo\bin\Debug\BotonEscurridizo.exe
+C:\Users\Vikingo\source\repos\BotonEscurridizo\BotonEscurridizo\bin\Debug\BotonEscurridizo.pdb
+C:\Users\Vikingo\source\repos\BotonEscurridizo\BotonEscurridizo\obj\Debug\BotonEscurridizo.csproj.AssemblyReference.cache
+C:\Users\Vikingo\source\repos\BotonEscurridizo\BotonEscurridizo\obj\Debug\BotonEscurridizo.Form1.resources
+C:\Users\Vikingo\source\repos\BotonEscurridizo\BotonEscurridizo\obj\Debug\BotonEscurridizo.Properties.Resources.resources
+C:\Users\Vikingo\source\repos\BotonEscurridizo\BotonEscurridizo\obj\Debug\BotonEscurridizo.csproj.GenerateResource.cache
+C:\Users\Vikingo\source\repos\BotonEscurridizo\BotonEscurridizo\obj\Debug\BotonEscurridizo.csproj.CoreCompileInputs.cache
+C:\Users\Vikingo\source\repos\BotonEscurridizo\BotonEscurridizo\obj\Debug\BotonEscurridizo.exe
+C:\Users\Vikingo\source\repos\BotonEscurridizo\BotonEscurridizo\obj\Debug\BotonEscurridizo.pdb
